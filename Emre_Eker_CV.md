@@ -56,7 +56,7 @@ Worked on payment applications used by banks and merchants. My responsibilities 
 
 Worked on customer projects across retail, mobile applications and enterprise software, combining development with team leadership responsibilities.
 
-- **Decathlon:** Led development of a microservice-based e-commerce mobile application published on the App Store and Google Play.
+- **Decathlon:** Led the development of a microservice-based e-commerce mobile application.
 - **Mercedes Servisim:** Developed a React Native application for service tracking and customer communication.
 - **HCM Platform:** Contributed to a multilingual HR application, including video calling functionality.
 - **TOFAŞ:** Worked on a program to modernize 15 applications, leading modernization work for selected Java applications.
@@ -66,10 +66,10 @@ Worked on customer projects across retail, mobile applications and enterprise so
 <details open>
 <summary><strong>Eteration — Software Development Specialist</strong> · Apr 2016 – Nov 2017 | Istanbul, Türkiye</summary>
 
-- **Garanti KOBİ Loyalty:** Developed Liferay portlets for loyalty features.
-- **Oyak Mobile App 2.0:** Developed much of the application's backend.
+- **Garanti KOBİ Loyalty:** Worked as a full-stack developer, building backend services with Spring Boot and frontend features with AngularJS.
+- **Oyak Mobile App 2.0:** Rebuilt the mobile application from scratch, developing the backend and using React Native for the frontend.
 - **Erdemir Sevkiyat Online:** Worked on an online shipment management application.
-- **Garanti Intranet:** Developed an internal chat module.
+- **Garanti Intranet:** Contributed to the development of Garanti Bank's internal intranet platform.
 - **NN Senin Mobilin:** Maintained a mobile insurance application built with Apache Cordova and Java EE.
 
 </details>
