@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Emre%20Eker&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer&descSize=22&descAlignY=60" alt="Emre Eker banner" />
 
-<a href="https://github.com/eeker"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Java+%26+Spring+Boot+engineer;Payment+systems+nerd+%F0%9F%92%B3;10%2B+years+of+shipping+backend+code;I+love+untangling+hard+production+bugs+%F0%9F%90%9B" alt="Typing animation" /></a>
+<a href="https://github.com/EmreEker"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Software+Engineer;10%2B+years+of+shipping+backend+code;I+love+untangling+hard+production+bugs+%F0%9F%90%9B" alt="Typing animation" /></a>
 
 <br/>
 
